@@ -41,12 +41,6 @@ void loop() {
     mode *= -1;
 
     delay(400);
-
-  //DEBUG
-  //  Serial.print(", ");
-  //  Serial.print(satVal);
-  //  Serial.print(", ");
-  //  Serial.print(HIGH_VAL);
   }
 
   if(mode == 1){ //Manually set colors
